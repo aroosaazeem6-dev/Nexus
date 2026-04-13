@@ -1,6 +1,6 @@
 # 🚀 Business Nexus
 
-A full-stack frontend platform that connects **Entrepreneurs** with **Investors** for collaboration, meetings, funding, and deal management.
+A role-based frontend platform that connects Entrepreneurs and Investors, enabling collaboration, meeting scheduling, document handling, and funding simulations.
 
 ---
 
