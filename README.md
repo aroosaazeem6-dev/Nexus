@@ -10,8 +10,9 @@ A full-stack frontend platform that connects **Entrepreneurs** with **Investors*
 
 ---
 
-## 🎯 Features<img width="1521" height="3000" alt="nexus-1wct1pv6t-aroosaazeem6-devs-projects vercel app_dashboard_entrepreneur (1)" src="https://github.com/user-attachments/assets/b3f39865-b512-45a2-a867-e8c1fba46db2" />
-<img width="1521" height="3000" alt="nexus-1wct1pv6t-aroosaazeem6-devs-projects vercel app_dashboard_entrepreneur (1)" src="https://github.com/user-attachments/assets/da115268-667f-4eb7-8182-9bf90fd2c294" />
+## 💰 Investor Dashboard<img width="1521" height="3000" alt="nexus-1wct1pv6t-aroosaazeem6-devs-projects vercel app_dashboard_entrepreneur (1)" src="https://github.com/user-attachments/assets/b3f39865-b512-45a2-a867-e8c1fba46db2" />
+
+## 👩‍💼 Entrepreneur Dashboard<img width="1521" height="2516" alt="nexus-1wct1pv6t-aroosaazeem6-devs-projects vercel app_dashboard_investor" src="https://github.com/user-attachments/assets/45601ca7-93ec-439f-a5cd-585c15cd6208" />
 
 
 ### 🔐 Authentication & Security
