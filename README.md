@@ -9,6 +9,11 @@ A full-stack frontend platform that connects **Entrepreneurs** with **Investors*
 👉 https://nexus-1wct1pv6t-aroosaazeem6-devs-projects.vercel.app
 
 ---
+## 🎥 Demo Video
+
+👉 https://drive.google.com/file/d/17-G3UmDrigCdV_RezjZMRRID3ku8FnAG/view?usp=sharing
+
+---
 
 ## 💰 Investor Dashboard<img width="1521" height="2516" alt="investordashboard" src="https://github.com/user-attachments/assets/36813031-f34f-4a62-8a1c-314550ab1644" />
 
